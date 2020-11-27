@@ -1,0 +1,10 @@
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\bin\Debug\Lesson04.exe.config
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\bin\Debug\Lesson04.exe
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\bin\Debug\Lesson04.pdb
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\obj\Debug\Lesson04.csprojAssemblyReference.cache
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\obj\Debug\Lesson04.Form1.resources
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\obj\Debug\Lesson04.Properties.Resources.resources
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\obj\Debug\Lesson04.csproj.GenerateResource.cache
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\obj\Debug\Lesson04.csproj.CoreCompileInputs.cache
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\obj\Debug\Lesson04.exe
+C:\Users\Viosagmir\Documents\GitHub\learning\Lesson04\Lesson04\obj\Debug\Lesson04.pdb
